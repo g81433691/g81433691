@@ -1,15 +1,6 @@
 
 ---
 
-## 🏆 Achievements & Interests
-
-- 🎓 QQI 5 & 6 Computer Science
-- 🏁 Racing Simulations – built custom aluminum racing cockpits  
-- 🐶 Pet lover: 3 dogs & 60-gallon fishtank  
-- 💡 Passionate about continuous learning and emerging tech  
-
----
-
 ## 📈 GitHub Stats
 
 ![Greg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=g81433691&show_icons=true&theme=radical)  
