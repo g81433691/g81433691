@@ -1,16 +1,26 @@
-## Hi there 👋
 
+---
 
-**g81433691/g81433691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 Achievements & Interests
 
-Here are some ideas to get you started:
+- 🎓 QQI 5 & 6 Computer Science – 8 Distinctions  
+- 🏁 Racing Simulations – built custom aluminum racing cockpits  
+- 🐶 Pet lover: 3 dogs & 60-gallon fishtank  
+- 💡 Passionate about continuous learning and emerging tech  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 📈 GitHub Stats
+
+![Greg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=g81433691&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g81433691&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+- ✉️ Gregjwmitchell@outlook.com  
+- 📞 089 945 9243  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/gregmitchell8934)  
+- 💻 [GitHub](https://github.com/g81433691)
 
