@@ -3,7 +3,7 @@
 
 ## 🏆 Achievements & Interests
 
-- 🎓 QQI 5 & 6 Computer Science – 8 Distinctions  
+- 🎓 QQI 5 & 6 Computer Science
 - 🏁 Racing Simulations – built custom aluminum racing cockpits  
 - 🐶 Pet lover: 3 dogs & 60-gallon fishtank  
 - 💡 Passionate about continuous learning and emerging tech  
