@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://drive.google.com/uc?id=1rPmJG9qB6QRBDmq0pRmhETIqWKbaSXkk" width="150" alt="Gregory Mitchell"/>
-</p>
-
 <h1 align="center">Gregory Mitchell</h1>
 <p align="center">
   <strong>BSc (Hons) Computing</strong> • Bettystown, Co Meath<br/>
