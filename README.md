@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning **Advanced Programming, Advanced Computer networks, Artificial Intelligence, Security fundamentals and
 development, Work placement**
 
-- 💬 Ask me about **Java, JavaFX, JS, Node, Express, Python, SQL, HTML, CSS, JSON, XML, XSL; Tools: VS Code, NetBeans, Eclipse, Jupyter, MySQL; Other: Linux, Win, PowerShell, Bash, Git, Networking, Wireshark, PC, Arduino**
+- 💬 Experience with **Java, JavaFX, JS, Node, Express, Python, SQL, HTML, CSS, JSON, XML, XSL; Tools: VS Code, NetBeans, Eclipse, Jupyter, MySQL; Other: Linux, Win, PowerShell, Bash, Git, Networking, Wireshark, PC, Arduino**
 
 - 📫 How to reach me **gregjwmitchell@outlook.com, 089 945 9243**
 
